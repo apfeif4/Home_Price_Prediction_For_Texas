@@ -1,7 +1,11 @@
 🏡 Home Price Predictions – Texas
+
 📝 Overview
+
 This project analyzes Texas home price data and uses machine learning models to predict property values.
+
 We apply Linear Regression, Random Forest Regression, and Support Vector Classification (SVC) to model the data, along with a word tokenizer to analyze property descriptions for potential value indicators.
+
 Status: ✅ Completed
 
 🎯 Objectives
