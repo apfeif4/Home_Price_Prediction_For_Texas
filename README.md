@@ -1,21 +1,40 @@
-EDA - Netflix Viewership
-This project is an example of data exploration in Tableau.
--- Project Status: Completed
-Project Intro/Objective
-The goal of this project is to explore Netflix data to find something interesting and tell a story about it. The data comes from three different datasets that will be explored to make connections. In the end a PowerPoint presentation is created to give the stakeholders/ Management a call to action for a change that can be made to increase profits.
-Methods Used
-•	Data Visualization
-•	Data Exploration
+🏡 Home Price Predictions – Texas
+📝 Overview
+This project analyzes Texas home price data and uses machine learning models to predict property values.
+We apply Linear Regression, Random Forest Regression, and Support Vector Classification (SVC) to model the data, along with a word tokenizer to analyze property descriptions for potential value indicators.
+Status: ✅ Completed
+
+🎯 Objectives
+Predict future home values based on historical data and property features.
+Compare performance across multiple machine learning algorithms.
+Explore whether keywords in property descriptions influence home prices.
+Create visualizations to better understand trends and model results.
+🛠️ Methods & Tools
+Methods
+Random Forest Regression
+Linear Regression
+Support Vector Machines (SVC)
+Word Tokenization & Text Analysis
+Data Visualization
 Technologies
-•	Tableau
-Project Description
-The sources of data for this project can be found on Kaggle and have been added to this Repo. This is an exploratory data analysis with some of the following questions to explore: Do any correlations exist in the data? What story are they trying to tell? What is watched more, movies or TV shows? What is the average run time watched? What titles make up this watch time? Are there any differences for what is watched more among different countries?
-Needs of this project
-•	data exploration
-•	statistical modeling
-•	writeup/reporting
-Getting Started
-1.	Clone this repo for the data and the Tableau workbook.
-2.	Raw Data is being kept in the data folder within this repo.
-3.	The visualizations are within the netflixExploration.twb workbook
-4.	And example presentation is the Netflix viewership.pptx file and the example write is the Netflix viewership.docx file.
+Python (Jupyter Notebook)
+Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+📂 Data Sources
+Public datasets from Kaggle (included in this repository).
+🚀 Project Workflow
+Data Collection – Obtain Texas home price datasets from Kaggle.
+Data Cleaning & Preparation – Handle missing values, standardize formats, and engineer features.
+Exploratory Data Analysis (EDA) – Identify trends, correlations, and outliers.
+Modeling – Train and evaluate Linear Regression, Random Forest, and SVC models.
+Text Analysis – Tokenize property descriptions to examine word–price relationships.
+Visualization & Reporting – Present results through graphs and summaries.
+📈 Deliverables
+Jupyter Notebook with full code and analysis.
+Visualizations illustrating trends and model performance.
+Report summarizing insights, methodology, and recommendations.
+🔮 Future Enhancements
+Integrate additional Texas real estate datasets for broader coverage.
+Incorporate geospatial analysis for location-based insights.
+Apply deep learning models for improved accuracy.
+Expand NLP analysis for more robust keyword impact assessment.
+If you’d like, I can turn this into a Markdown GitHub version with clickable links, section icons, and
